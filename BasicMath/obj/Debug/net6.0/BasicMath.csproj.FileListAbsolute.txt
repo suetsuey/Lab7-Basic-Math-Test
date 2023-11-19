@@ -1,0 +1,14 @@
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\bin\Debug\net6.0\BasicMath.exe
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\bin\Debug\net6.0\BasicMath.deps.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\bin\Debug\net6.0\BasicMath.runtimeconfig.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\bin\Debug\net6.0\BasicMath.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\bin\Debug\net6.0\BasicMath.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfo.cs
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\refint\BasicMath.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\BasicMath.genruntimeconfig.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab7 - BasicMath Tests\BasicMath\obj\Debug\net6.0\ref\BasicMath.dll
